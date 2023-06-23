@@ -7,6 +7,7 @@ O projeto realizado com o consumo da PokeAPI ("https://pokeapi.co/"), visando co
 <br>
 ---
 <br>
+
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
